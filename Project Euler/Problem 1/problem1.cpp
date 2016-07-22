@@ -14,6 +14,6 @@ int main()
 		}
 	}
 
-	std::cout << "Total of all numbers below " << UPPER_BOUND << " that are multiples of 3 and 5: " << total;
+std::cout << "Total of all numbers below " << UPPER_BOUND << " that are multiples of 3 and 5: " << total;
 	std::getchar();
 }
